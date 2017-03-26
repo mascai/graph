@@ -18,3 +18,5 @@
 4. Тестирование классификатора на контрольной выборке.
 
 Полное описание задания [здесь](https://github.com/mascai/graph/blob/master/task_2/solution/readme.pdf)
+
+Скачать данны для тестирования [здесь](https://github.com/mascai/graph/blob/master/task_2/solution/data.zip)
