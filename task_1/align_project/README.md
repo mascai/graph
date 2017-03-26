@@ -10,6 +10,8 @@
 Возможны улучшения базового алгоритма. Полное описание задания [здесь](https://github.com/mascai/graph/blob/master/task_1/align_project/align.pdf)
 
 ## Installation
+```
+
 Clone the repository.
 cd align_project
 make all
@@ -17,7 +19,8 @@ cd build/bin/
 ./align <путь к входному файлу> <путь к результирующему изображению> --align
 
 Дополнительные функци ./align --help
-
+```
+## Example
 ![Исходное изображение](https://raw.githubusercontent.com/mascai/graph/master/task_1/align_project/1.bmp)
 ![Исходное изображение](https://raw.githubusercontent.com/mascai/graph/master/task_1/align_project/2.bmp)
 
